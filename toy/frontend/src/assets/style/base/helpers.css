@@ -1,0 +1,49 @@
+.clean-list {
+    list-style: none;
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+}
+
+.container {
+    width: 80vw;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+.space-btw {
+    justify-content: space-between;
+}
+
+.space-ard{
+    justify-content: space-around;
+}
+
+.justify-c{
+    justify-content: center;
+}
+.align-c {
+    align-items: center;
+}
+
+.mt-1 {
+    margin-top: .5em;
+}
+
+.mt-2 {
+    margin-top: 1em;
+}
+
+.mt-3 {
+    margin-top: 1.5em;
+}
+
+.mt-4 {
+    margin-top: 2em;
+}

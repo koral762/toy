@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "dGQGo8",
+    "name": "testyt2",
+    "price": 12,
+    "type": "educational",
+    "createdAt": 1621701354069,
+    "inStock": true,
+    "isFavourite": false
+  },
+  {
+    "_id": "FtZvwv",
+    "name": "testyy",
+    "price": 22,
+    "type": "educational",
+    "createdAt": 1621701254564
+  },
+  {
+    "_id": "Bn9MPE",
+    "name": "ttee",
+    "price": 12,
+    "type": "funny",
+    "createdAt": 1621697473804,
+    "isFavourite": false
+  },
+  {
+    "_id": "KhHKbL",
+    "name": "546",
+    "price": 23,
+    "type": "funny",
+    "createdAt": 1621683835822,
+    "isFavourite": false
+  },
+  {
+    "_id": "vBs5sr",
+    "name": "nec lectus223",
+    "price": 29,
+    "type": "Adult",
+    "createdAt": 1376410975214,
+    "inStock": false,
+    "isFavourite": false
+  },
+  {
+    "_id": "QPvxVL",
+    "name": "placerat curabitur",
+    "price": 55,
+    "type": "Funny",
+    "createdAt": 1274138490782,
+    "inStock": false,
+    "isFavourite": true
+  },
+  {
+    "_id": "hYrSod",
+    "name": "sit id",
+    "price": 27,
+    "type": "Educational",
+    "createdAt": 1150610165996,
+    "inStock": false,
+    "isFavourite": true
+  },
+  {
+    "_id": "iOdjXh",
+    "name": "sit non",
+    "price": 96,
+    "type": "Adult",
+    "createdAt": 1296973599521,
+    "inStock": true,
+    "isFavourite": false
+  },
+  {
+    "_id": "ZXnV4I",
+    "name": "at dui",
+    "price": 84,
+    "type": "Educational",
+    "createdAt": 1350467893206,
+    "inStock": false,
+    "isFavourite": false
+  },
+  {
+    "_id": "ami8M6",
+    "name": "lacus dui",
+    "price": 10,
+    "type": "Funny",
+    "createdAt": 1345512914205,
+    "inStock": true,
+    "isFavourite": true
+  },
+  {
+    "_id": "BfQIje",
+    "name": "nec amet",
+    "price": 96,
+    "type": "Funny",
+    "createdAt": 1410342957500,
+    "inStock": false,
+    "isFavourite": true
+  },
+  {
+    "_id": "fakTwR",
+    "name": "mattis amet",
+    "price": 19,
+    "type": "Funny",
+    "createdAt": 1273297295137,
+    "inStock": true,
+    "isFavourite": false
+  },
+  {
+    "_id": "l4PgeG",
+    "name": "sit lectus",
+    "price": 77,
+    "type": "Educational",
+    "createdAt": 1401213296717,
+    "inStock": false,
+    "isFavourite": false
+  },
+  {
+    "_id": "fsoZrN",
+    "name": "mi vitae",
+    "price": 23,
+    "type": "Educational",
+    "createdAt": 1381064903106,
+    "inStock": false,
+    "isFavourite": false
+  },
+  {
+    "_id": "L8JtMt",
+    "name": "dui nunc",
+    "price": 1,
+    "type": "Adult",
+    "createdAt": 1153422112664,
+    "inStock": true,
+    "isFavourite": false
+  },
+  {
+    "_id": "Zxb8Yk",
+    "name": "velit neque",
+    "price": 23,
+    "type": "Funny",
+    "createdAt": 1157458150125,
+    "inStock": false,
+    "isFavourite": true
+  },
+  {
+    "_id": "NxXc55",
+    "name": "dolor lacus",
+    "price": 48,
+    "type": "Adult",
+    "createdAt": 1406335305633,
+    "inStock": true,
+    "isFavourite": false
+  },
+  {
+    "_id": "LtDntb",
+    "name": "tempor dolor",
+    "price": 62,
+    "type": "Educational",
+    "createdAt": 1207935200471,
+    "inStock": false,
+    "isFavourite": true
+  },
+  {
+    "_id": "TtaZaL",
+    "name": "magna mi",
+    "price": 50,
+    "type": "Educational",
+    "createdAt": 1321402473415,
+    "inStock": true,
+    "isFavourite": false
+  }
+]

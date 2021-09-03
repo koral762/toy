@@ -1,0 +1,14 @@
+.add-toy-form {
+
+  form {
+    padding: 2em;
+    div {
+      label {
+        margin-inline-end: 10px;
+      }
+    }
+  }
+  form > *:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}

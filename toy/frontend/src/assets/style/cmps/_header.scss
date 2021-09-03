@@ -1,0 +1,22 @@
+.main-header {
+  padding: 1em 1em;
+  background-color: $clr2;
+  padding: 2em 0;
+  h1 {
+    font-size: 2em;
+    color: $clr1;
+
+  }
+  ul > *:not(:last-child) {
+    margin-inline-end: 1em;
+  }
+  li {
+    font-size: 1.25em;
+  }
+  li:hover {
+      border-bottom: 1px solid white;
+  }
+  a.active {
+    color: $clr1;
+  }
+}

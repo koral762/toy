@@ -1,0 +1,32 @@
+// // Setup
+@import "setup/variables.scss";
+@import './setup/functions.scss';
+@import './setup/mixins.scss';
+@import './setup/typography.scss';
+
+// // Basics
+// @import "basics/helpers.scss";
+// @import "basics/layout.scss";
+// @import "basics/base.scss";
+// @import "basics/buttons.scss";
+
+@import './pages/home';
+
+@import './base/reset.css';
+@import './base/base.css';
+@import './base/helpers.css';
+
+@import './cmps/_header.scss';
+@import './cmps/Footer.css';
+@import './cmps/_toyPreview.scss';
+@import './cmps/_toySort.scss';
+@import './cmps/_toyFilter.scss';
+@import './cmps/ToyList.css';
+@import './cmps/_toyAdd.scss';
+@import './cmps/_toyEdit.scss';
+@import './cmps/Chart.css';
+
+@font-face {
+    font-family: icons;
+    src: url(../fonts/fa-regular-400.ttf);
+}

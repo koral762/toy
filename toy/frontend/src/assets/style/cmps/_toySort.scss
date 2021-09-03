@@ -1,0 +1,24 @@
+.toy-sort {
+  > *:nth-child(n) {
+    margin-inline-end: 15px;
+  }
+  i {
+    cursor: pointer;
+    font-size: 1.45rem;
+  }
+  i.fas {
+    font-family: fas;
+  }
+  .fa-sort-alpha-down::after {
+    content: "\f15d";
+  }
+  .fa-sort-alpha-up::after {
+    content: "\f15e";
+  }
+  i.fa-sort-numeric-down::after {
+    content: "\f162";
+  }
+  i.fa-sort-numeric-up::after {
+    content: "\f163";
+  }
+}

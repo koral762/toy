@@ -1,0 +1,17 @@
+.toy-details {
+    // background-color: rgb(202, 228, 228);
+    width: 400px;
+    padding: 2em;
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 7px;
+
+    
+}
+
+.toy-details>*:not(:last-child) {
+    margin-block-end: 15px;
+}
+
+.toy-details img {
+    width: 60%;
+}
